@@ -28,6 +28,12 @@ export default function Footer() {
         >
           Terms
         </a>
+        <a
+          href="https://inkgen.ai"
+          className="font-bold transition hover:text-black/50"
+        >
+          AI Tattoo Generator
+        </a>
       </div>
       <div className="flex space-x-4 pb-4 sm:pb-0">
       
