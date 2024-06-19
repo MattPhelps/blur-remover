@@ -31,6 +31,7 @@ export default function Footer() {
         <a
           href="https://inkgen.ai"
           className="font-bold transition hover:text-black/50"
+          rel="dofollow"
         >
           AI Tattoo Generator
         </a>
