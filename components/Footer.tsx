@@ -35,6 +35,13 @@ export default function Footer() {
         >
           AI Tattoo Generator
         </a>
+        <a
+          href="https://github.com/MattPhelps/ai-tattoo-generator"
+          className="font-bold transition hover:text-black/50"
+          rel="dofollow"
+        >
+          AI GitHub Repo
+        </a>
       </div>
       <div className="flex space-x-4 pb-4 sm:pb-0">
       
